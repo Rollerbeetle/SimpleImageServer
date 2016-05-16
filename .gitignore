@@ -43,3 +43,4 @@ jspm_packages
 
 # random stuff
 data/*/
+!data/
